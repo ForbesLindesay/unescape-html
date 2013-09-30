@@ -1,0 +1,20 @@
+{
+  "name": "unescape-html",
+  "version": "0.0.0",
+  "description": "The reverse of escape-html",
+  "keywords": [],
+  "dependencies": {},
+  "devDependencies": {
+    "testit": "*",
+    "escape-html": "*"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForbesLindesay/unescape-html.git"
+  },
+  "author": "ForbesLindesay",
+  "license": "MIT"
+}
