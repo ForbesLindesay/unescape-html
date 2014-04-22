@@ -2,9 +2,9 @@
 
 The reverse of escape-html
 
-[![Build Status](https://travis-ci.org/ForbesLindesay/unescape-html.png?branch=master)](https://travis-ci.org/ForbesLindesay/unescape-html)
-[![Dependency Status](https://gemnasium.com/ForbesLindesay/unescape-html.png)](https://gemnasium.com/ForbesLindesay/unescape-html)
-[![NPM version](https://badge.fury.io/js/unescape-html.png)](http://badge.fury.io/js/unescape-html)
+[![Build Status](https://img.shields.io/travis/ForbesLindesay/unescape-html/master.svg)](https://travis-ci.org/ForbesLindesay/unescape-html)
+[![Dependency Status](https://img.shields.io/gemnasium/ForbesLindesay/unescape-html.svg)](https://gemnasium.com/ForbesLindesay/unescape-html)
+[![NPM version](https://img.shields.io/npm/v/unescape-html.svg)](http://badge.fury.io/js/unescape-html)
 
 ## Installation
 
