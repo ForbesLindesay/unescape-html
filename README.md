@@ -1,6 +1,6 @@
 # unescape-html
 
-The reverse of escape-html
+The reverse of [escape-html](https://github.com/component/escape-html)
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/unescape-html/master.svg)](https://travis-ci.org/ForbesLindesay/unescape-html)
 [![Dependency Status](https://img.shields.io/gemnasium/ForbesLindesay/unescape-html.svg)](https://gemnasium.com/ForbesLindesay/unescape-html)
