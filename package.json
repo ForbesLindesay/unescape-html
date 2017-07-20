@@ -5,7 +5,7 @@
   "keywords": [],
   "dependencies": {},
   "devDependencies": {
-    "testit": "*",
+    "testit": ">=3.0.0",
     "escape-html": "*"
   },
   "scripts": {
