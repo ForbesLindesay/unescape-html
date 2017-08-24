@@ -1,5 +1,7 @@
 # unescape-html
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/unescape-html.svg)](https://greenkeeper.io/)
+
 The reverse of [escape-html](https://github.com/component/escape-html)
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/unescape-html/master.svg)](https://travis-ci.org/ForbesLindesay/unescape-html)
